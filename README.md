@@ -44,7 +44,7 @@ Luego el directorio lib
 | Directorio    | Explicación |
 | ------------- |:-------------:|
 | helpers   | Contiene configuraciones de funciones de uso común |
-| models    | Contiene todas las clases que representan el modelo de un objeto como películas, actor, respuestas de peticiones |
+| models    | Contiene todas las clases que representan el modelo de un objeto |
 | providers | Contiene todas los providers donde se realizan las peticiones http |
 | router    | Contiene todas las configuraciones de las rutas de la aplicación |
 | screens   | Contiene todas las clases de cada pantalla de la app |
