@@ -1,9 +1,10 @@
 import 'package:flutter/material.dart';
+
+import 'package:provider/provider.dart';
+
 import 'package:preferences_app/providers/theme_provider.dart';
 import 'package:preferences_app/shared_preferences/preferences.dart';
-
 import 'package:preferences_app/widgets/side_menu.dart';
-import 'package:provider/provider.dart';
 
 class Settings extends StatefulWidget {
   static const routeName = 'settings';
