@@ -50,6 +50,3 @@ Luego el directorio lib
 | screens   | Contiene todas las clases de cada pantalla de la app |
 | theme     | Contiene todas las configuraciones del tema de la app |
 | widgets   | Contiene todos los  widgets personalizados que se reutilizan en distintas secciones de la app |
-
-
-## Capturas de pantalla
